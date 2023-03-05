@@ -19,8 +19,12 @@ There are `n` stairs, a person standing at the bottom wants to reach the top. Th
 
 ## Task 4: Individual (at home)
 
-- What are the pros/cons of recursive over iterative Programming?
+-  What are the pros/cons of recursive over iterative Programming?
+  Loops are more effective. A recursive function has to set up a lot of stack frames. The stack can also overflow the recursion is deep. Recursion is easier to understand especially if the algorithm uses indirect recursion.
+
 - Difference between recursion and induction.
+  Recursion is a method to get a value or executing code by calling a function inside itself. Induction is used to prove a something.
+  Recursion and induction work to opposite directions. Recursion nth to base. Induction base to nth.
 
 > Refer to the [links](#links) section below.
 
